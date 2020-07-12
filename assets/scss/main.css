@@ -6,6 +6,10 @@
   color: #303778;
 }
 
+.fs-4-r {
+  font-size: 4rem;
+}
+
 .bg-grey {
   background: #fcfdff;
 }
@@ -53,6 +57,10 @@
 .dot-red {
   background: red;
 }
+.dot-big {
+  width: 1.3rem;
+  height: 1.3rem;
+}
 
 .bottom-1-point-1-r {
   bottom: 1.1rem;
@@ -60,6 +68,10 @@
 
 .right-point-2-r {
   right: 0.2rem;
+}
+
+.right-point-4-r {
+  right: 0.4rem;
 }
 
 .border-radius-point-3-r {

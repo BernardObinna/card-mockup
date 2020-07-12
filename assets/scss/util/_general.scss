@@ -34,6 +34,11 @@
   &-red{
     background: red;
   }
+  &-big{
+    width: 1.3rem;
+    height: 1.3rem;
+
+  }
 }
 
 .bottom-1-point-1-r{
@@ -42,4 +47,8 @@
 
 .right-point-2-r{
   right: .2rem;
+}
+
+.right-point-4-r{
+  right: .4rem;
 }
