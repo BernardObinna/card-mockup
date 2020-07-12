@@ -6,8 +6,31 @@
   background: #fcfdff;
 }
 
+.bg-dark-grey {
+  background: #f1f3fa;
+}
+
 .custom-shadow {
   box-shadow: 0 5px 10px rgba(0, 0, 0, 0.2);
+}
+
+.perfect-center-vertical {
+  position: relative;
+  top: 50%;
+  transform: translateY(-50%);
+}
+.perfect-center-all {
+  position: absolute;
+  top: 50%;
+  left: 50%;
+  transform: translate(-50%, -50%);
+}
+
+.border-radius-point-5-r {
+  border-radius: 0.5rem;
+}
+.border-radius-point-9-r {
+  border-radius: 0.9rem;
 }
 
 /*# sourceMappingURL=main.css.map */
