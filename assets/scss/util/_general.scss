@@ -11,3 +11,13 @@
     transform: translate(-50%, -50%);
   }
 }
+
+.chat{
+  position: fixed;
+  bottom: 1.5rem;
+  right: 1.5rem;
+  color: white;
+  background: $color-chat-blue;
+  border-radius: 1rem;
+  border-top-left-radius: 0;
+}
