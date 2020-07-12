@@ -21,3 +21,25 @@
   border-radius: 1rem;
   border-top-left-radius: 0;
 }
+
+.hover{
+  cursor: pointer;
+}
+
+.dot{
+  width: .5rem;
+  height: .5rem;
+  border-radius: 50%;
+  position: absolute;
+  &-red{
+    background: red;
+  }
+}
+
+.bottom-1-point-1-r{
+  bottom: 1.1rem;
+}
+
+.right-point-2-r{
+  right: .2rem;
+}
